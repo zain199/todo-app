@@ -1,6 +1,7 @@
 # todoapp
 
 ### A new Flutter application that can manage ur tasks when and where and its status 
+### created with Bloc state management – SQLite – intl – bloc pattern.
 
 ## Getting Started
 
